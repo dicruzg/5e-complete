@@ -158,8 +158,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/brentonwalker/5e-complete-V12",
-    "manifest": "https://raw.githubusercontent.com/brentonwalker/5e-complete-V12/refs/heads/main/module.json",
-    "download": "https://github.com/brentonwalker/5e-complete-V12/archive/refs/heads/main.zip",
+    "url": "https://github.com/dicruzg/5e-complete",
+    "manifest": "https://raw.githubusercontent.com/dicruzg/5e-complete/refs/heads/main/module.json",
+    "download": "https://github.com/dicruzg/5e-complete/archive/refs/heads/main.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
